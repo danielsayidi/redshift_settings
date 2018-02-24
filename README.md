@@ -1,5 +1,9 @@
 Redshift is a app for managing brightness of screen for day and night
 for linux, mac, windows
+
+# for installing redshift on linux just type this statement in terminal
+sudo apt-get install redshift redshift-gtk
+
 # redshift_settings
 manuel redshift settings for screen
 
